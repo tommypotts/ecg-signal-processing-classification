@@ -45,7 +45,7 @@ Python, NumPy, pandas, SciPy (FFT, cross-correlation), scikit-learn, matplotlib
 
 ## Usage
 ```bash
-git clone https://github.com/[your-username]/ecg-signal-classification.git
+git clone https://github.com/tommypotts/ecg-signal-classification.git
 cd ecg-signal-classification
 jupyter notebook ecg_signal_processing_classification.ipynb
 ```
